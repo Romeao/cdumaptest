@@ -1,5 +1,6 @@
-
 import 'react-native-gesture-handler';
+//Always keep this in top
+
 import React, { useState } from 'react';
 import { View, Text } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
