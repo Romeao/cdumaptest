@@ -33,6 +33,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": ""
+    "description": "CDU Map app",
+    "githubUrl": "https://github.com/Romeao/cdumaptest.git"
   }
 }
